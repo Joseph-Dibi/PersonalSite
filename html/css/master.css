@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: fantasy;
+}
+#introPhoto{
+  height: 25%;
+  width: 25%;
+}
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+h1 {
+  padding-top: 70px;
+
+}
+project {
+  text-align: center;
+  column-count: 4;
+
+}
+.projectPictures{
+  height: 240px;
+  width: 320px;
+}
+
+.welcome{
+  background-image: url(http://modeon.co/wp-content/uploads/2018/02/wallpaper-for-websites-download-by-tablet-desktop-backgrounds-free.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+
+}
+hr{
+  background-color: white;
+  color: white;
+}
+.header{
+  padding-top: 70px;
+  text-align: center;
+}
